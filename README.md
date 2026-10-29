@@ -37,7 +37,7 @@ An [opencli](https://github.com/jackwener/opencli) plugin for [fxbaogao.com](htt
 ### 1. Clone
 
 ```bash
-git clone https://github.com/turinglambdaai/opencli-plugin-fxbaogao.git
+git clone https://github.com/turlamai/opencli-plugin-fxbaogao.git
 cd opencli-plugin-fxbaogao
 ```
 

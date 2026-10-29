@@ -34,7 +34,7 @@
 ### 1. 克隆
 
 ```bash
-git clone https://github.com/turinglambdaai/opencli-plugin-fxbaogao.git
+git clone https://github.com/turlamai/opencli-plugin-fxbaogao.git
 cd opencli-plugin-fxbaogao
 ```
 
