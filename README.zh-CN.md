@@ -1,5 +1,7 @@
 # OpenCLI Plugin for fxbaogao
 
+**支持：**[问题与反馈](https://github.com/turlamai/opencli-plugin-fxbaogao/issues) · [当前交付策略](https://github.com/turlamai/turlamai.github.io/blob/master/PORTFOLIO.zh-CN.md)
+
 [opencli](https://github.com/jackwener/opencli) 插件，用于 [发现报告](https://www.fxbaogao.com)（fxbaogao.com）—— 在命令行搜索、浏览和阅读行业研究报告。
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
