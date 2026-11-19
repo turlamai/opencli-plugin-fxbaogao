@@ -1,7 +1,5 @@
 # OpenCLI Plugin for fxbaogao
 
-**Support:** [Issues & feedback](https://github.com/turlamai/opencli-plugin-fxbaogao/issues) · [Development policy](https://github.com/turlamai/turlamai.github.io/blob/master/PORTFOLIO.md)
-
 An [opencli](https://github.com/jackwener/opencli) plugin for [fxbaogao.com](https://www.fxbaogao.com) (Found Report) — search, browse, and read industry research reports from the command line.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
